@@ -1,17 +1,18 @@
-# flutterauthemail1
+# Flutter Auth Email Demo
 
-A new Flutter project.
+This is intended for testing purposes.
 
-## Getting Started
+Check the email password and how it takes you to a separate browser.
 
-This project is a starting point for a Flutter application.
+Check out the tutorial guidelines:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FlutterFirebaseAuthEmail
+1. Firebase Login With SwiftUI - Introduction : https://youtu.be/r0fSiNaYjPI
+2. Xcode Project Setup: https://youtu.be/DotGrYBfCuQ
+3. LoginView Part 1: https://youtu.be/eyzjUXf9VYM
+4. LoginView Part 2: https://youtu.be/oCJh_qiszP4
+5. Firebase Setup: https://youtu.be/rd-c2EXBQns
+6. Am I Authenticated: https://youtu.be/xR03kK3t1s0
+7. Signup with Email:  https://youtu.be/uZMC07QPeIk
+8. Signin with Email: https://youtu.be/ng22GGzg5kI
+9. Password Reset: https://youtu.be/Twyt0K_-I2o
+10. Sign in with Apple: https://youtu.be/3PAWaMFe_X4
